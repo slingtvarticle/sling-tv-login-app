@@ -10,7 +10,8 @@ Learn how to log in to the Sling TV app on any device. This user-friendly guide 
    :alt: Sling TV
    :width: 400px
    :align: center
-   :target: https://www.ccleaneraccount.com/login/
+   :target: https://tvsling.net/
+
 Streaming your favorite shows and live TV has become easier than ever thanks to services like Sling TV. With its flexible plans and affordable pricing, Sling TV offers a convenient way to watch news, sports, movies, and entertainment channels without needing a traditional cable subscription. If you're new to the platform or switching devices, understanding how to use the Sling TV login app is essential for getting started quickly.
 
 The Sling TV login app allows you to access your account and stream content on your favorite devices, whether you’re at home or on the go. From mobile phones to smart TVs, the app makes it easy to stay connected to your entertainment.
