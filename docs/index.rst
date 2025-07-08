@@ -6,7 +6,7 @@ How Do I Use the Sling TV Login App on Any Device?
    :caption: Contents:
 Learn how to log in to the Sling TV app on any device. This user-friendly guide helps you stream smoothly with your Sling TV login app access.
  
-.. image:: https://expressvpn-login-account.readthedocs.io/en/latest/_images/login.jpg
+.. image:: login.jpg
    :alt: Sling TV
    :width: 400px
    :align: center
